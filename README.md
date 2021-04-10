@@ -12,7 +12,7 @@
 
 [First Online Live Robotics Competition 2018](http://roboarm2018.makerobots.eu/)
 
-[Vuosaari Robotics Workshop] (https://vuosaari.makerobots.eu/)
+[Vuosaari Robotics Workshop](https://vuosaari.makerobots.eu/)
 
 # blog
 

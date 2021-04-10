@@ -12,6 +12,8 @@
 
 [First Online Live Robotics Competition 2018](http://roboarm2018.makerobots.eu/)
 
+[Vuosaari Robotics Workshop] (https://vuosaari.makerobots.eu/)
+
 # blog
 
 [2018-09-09 Robotics curriculum](blog/2018-09-09-robotics-curriculum.md)
